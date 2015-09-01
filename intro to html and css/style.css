@@ -1,0 +1,27 @@
+.description{
+	max-width: 705px;
+}
+
+.screenshot{
+	max-width: 460px;
+	margin-left: 10px;
+	margin-right:30px;
+}
+
+.title{
+	margin-left: 10px;
+	background-color: #33BEBE;
+
+}
+
+
+* {
+
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+.app {
+	display: flex;
+	display: webkit-flex;
+}
