@@ -168,3 +168,17 @@
 127.0.0.1, 2015-08-31 13:06:32, GET, /Ortodontie/static/css/owl.carousel.css, HTTP/1.1, 304, 0.008000
 127.0.0.1, 2015-08-31 13:06:32, GET, /Ortodontie/static/css/owl.theme.css, HTTP/1.1, 304, 0.009000
 127.0.0.1, 2015-08-31 13:06:33, GET, /Ortodontie/static/images/favicon.ico, HTTP/1.1, 200, 0.003000
+127.0.0.1, 2015-09-02 16:27:46, GET, /, HTTP/1.1, 200, 0.603000
+127.0.0.1, 2015-09-02 16:27:46, GET, /static/css/bootstrap.min.css, HTTP/1.1, 200, 0.019000
+127.0.0.1, 2015-09-02 16:27:46, GET, /static/css/style.css, HTTP/1.1, 200, 0.017000
+15000
+127.0.0.1, 2015-09-02 16:27:46, GET, /static/js/ga.js, HTTP/1.1, 200, 0.026000
+127.0.0.1, 2015-09-02 16:27:46, GET, /static/js/bootstrap.min.js, HTTP/1.1, 200, 0.029000
+127.0.0.1, 2015-09-02 16:27:46, GET, /static/js/jquery.easing.min.js, HTTP/1.1, 200, 0.029000
+127.0.0.1, 2015-09-02 16:27:46, GET, /static/js/scrolling-nav.js, HTTP/1.1, 200, 0.017000
+127.0.0.1, 2015-09-02 16:27:46, GET, /static/css/owl.carousel.css, HTTP/1.1, 200, 0.014000
+127.0.0.1, 2015-09-02 16:27:46, GET, /static/js/alternate.js, HTTP/1.1, 200, 0.018000
+127.0.0.1, 2015-09-02 16:27:46, GET, /static/images/metalic_brackets2.jpg, HTTP/1.1, 200, 0.012000
+127.0.0.1, 2015-09-02 16:27:46, GET, /static/css/owl.theme.css, HTTP/1.1, 200, 0.016000
+127.0.0.1, 2015-09-02 16:27:46, GET, /static/images/saphire_brackets2.jpg, HTTP/1.1, 200, 0.004000
+127.0.0.1, 2015-09-02 16:27:48, GET, /static/images/favicon.ico, HTTP/1.1, 200, 0.003000
